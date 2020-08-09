@@ -1,1 +1,1 @@
-this is basic qr scanner 
+this is a basic qr scanner 
